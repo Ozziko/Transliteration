@@ -4,7 +4,7 @@ Together we win! 🇮🇱
 I volunteer in a project where I've developed a generative transliteration pipeline,
 and optimized it for Arabic/Persian names, as explained 👇.
 
-Contact me if you need help (details below). If you're an 🇮🇱 defence organization
+Contact me if you need help (details below). If you're an 🇮🇱 defense organization
 or a voluntary project I can share it as a donation, and if your data is
 sensitive I can donate my static map of transliterated ~20k unique name parts that 
 can be used to transliterate millions of Arabic full names.
